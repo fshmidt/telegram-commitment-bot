@@ -1,8 +1,6 @@
 package config
 
 import (
-	"errors"
-	"github.com/joho/godotenv"
 	"github.com/spf13/viper"
 )
 
@@ -82,12 +80,6 @@ type Parts struct {
 
 func Init() (*Config, error) {
 
-	//os.Setenv("TOKEN", "")
-
-	if err := godotenv.Load(); err != nil {
-		return nil, errors.New("error loading env")
-	}
-
 	viper.AddConfigPath("configs")
 	viper.SetConfigName("main")
 
@@ -125,9 +117,11 @@ func Init() (*Config, error) {
 }
 
 func parseEnv(cfg *Config) error {
+
 	if err := viper.BindEnv("token"); err != nil {
 		return err
 	}
+
 	cfg.TelegramToken = viper.GetString("token")
 
 	return nil
