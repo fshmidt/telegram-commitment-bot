@@ -14,6 +14,8 @@ WORKDIR /root/
 
 COPY --from=0 /github.com/fshmidt/telegram-commitment-bot/.bin/bot .
 COPY --from=0 /github.com/fshmidt/telegram-commitment-bot/configs configs/
+#COPY --from=0 /github.com/fshmidt/telegram-commitment-bot/bot.db .
+#COPY --from=0 /github.com/fshmidt/telegram-commitment-bot/bot.db .
 
 EXPOSE 80
 
