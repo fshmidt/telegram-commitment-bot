@@ -46,28 +46,28 @@ make start-container
 
 ### 1. /start
 
-![start-obeshyalkin.png](..%2F..%2FPictures%2Fstart-obeshyalkin.png)
+![start-obeshyalkin.png](/docs/start-obeshyalkin.png)
 
 ### 2. /promise
 
-![promise-obeshyalkin.png](..%2F..%2FPictures%2Fpromise-obeshyalkin.png)
+![promise-obeshyalkin.png](/docs/promise-obeshyalkin.png)
 
 ### 4. /mypromises
 
-![mypromises-obeshyalkin.png](..%2F..%2FPictures%2Fmypromises-obeshyalkin.png)
+![mypromises-obeshyalkin.png](/docs/mypromises-obeshyalkin.png)
 
 ### 5. /delete
 
-![delete-obeshyalkin.png](..%2F..%2FPictures%2Fdelete-obeshyalkin.png)
+![delete-obeshyalkin.png](/docs/delete-obeshyalkin.png)
 
 ### 5. Напоминания
 
-![remider-obeshyalkin-1.png](..%2F..%2FPictures%2Fremider-obeshyalkin-1.png)
-![remider-obeshyalkin-2.png](..%2F..%2FPictures%2Fremider-obeshyalkin-2.png)
-![remider-obeshyalkin-3.png](..%2F..%2FPictures%2Fremider-obeshyalkin-3.png)
+![remider-obeshyalkin-1.png](/docs/remider-obeshyalkin-1.png)
+![remider-obeshyalkin-2.png](/docs/remider-obeshyalkin-2.png)
+![remider-obeshyalkin-3.png](/docs/remider-obeshyalkin-3.png)
 
 ### 6. Реакция на фразы-триггеры
 
-![proposition-obeshyalkin.png](..%2F..%2FPictures%2Fproposition-obeshyalkin.png)
+![proposition-obeshyalkin.png](/docs/proposition-obeshyalkin.png)
 
 
